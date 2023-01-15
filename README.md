@@ -1,4 +1,6 @@
-# About
+# YouTube-video-downloader
+
+## About
 
 This is an application that allows you to download youtube videos
 
